@@ -51,8 +51,11 @@ if 'apache in message':
     print("Apache Found")
 
 message = "Please restart the nginx daemon"
-if 'nginx' not in message':
-    print("Apache Found")
+if 'nginx' not in message:
+    print("nginx not found")
+
+
+print("")
 
 
 
