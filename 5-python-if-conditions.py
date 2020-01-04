@@ -38,4 +38,23 @@ else:
 
 print("--")
 
+if 'jdoe' in usernames:
+    print('jdoe found')
+else:
+    print('No usernme was found')
+
+print("--")
+
+#handy way to search for a string inside of another string
+message = "Please restart the apache daemon"
+if 'apache in message':
+    print("Apache Found")
+
+message = "Please restart the nginx daemon"
+if 'nginx' not in message':
+    print("Apache Found")
+
+
+
+
 
