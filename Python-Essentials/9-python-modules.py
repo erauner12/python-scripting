@@ -48,6 +48,9 @@ else:
     print("Sorry, wrong or non-existent credentials")
 
 
+print("--")
+
+
 # Let's say you want to create a user and take metadata (undefined amount of arguments)
 #need to insert positional data first and then arbritary lists
 def createUser(usernames,password,**meta):
