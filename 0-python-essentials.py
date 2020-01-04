@@ -2,6 +2,7 @@
 myname = "Evan"
 
 print("testing if this change is picked up in pythonista")
+print("testing if this other change is picked up in pythonista")
 
 #print variable normally
 print(myname)
