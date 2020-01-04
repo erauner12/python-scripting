@@ -29,7 +29,7 @@ print("--")
 
 username = 'jdoe'
 password = 'pass123'
-usernames= ['jdoe','linda','evan','jake']
+usernames= ['Jdoe','linda','evan','jake']
 
 if username == 'jdoe' and 'pass123':
     print("Login Succesful, Welcome",username)
@@ -56,6 +56,19 @@ if 'nginx' not in message:
 
 
 print("")
+
+#the username Jdoe was input with a uppercase first letter, this will ensure that everything is converted to lowercase before checking
+if 'jdoe'.lower() in usernames:
+    print('jdoe found')
+
+#older more traditional loop
+for u in usernames:
+    if u.lower() == 'jdoe':
+        print('jdoe found')
+        break
+
+
+
 
 
 
