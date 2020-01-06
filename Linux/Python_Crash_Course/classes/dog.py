@@ -40,5 +40,5 @@ print("This is your dog:")
 print("Name: " + your_dog.name)
 print("Age: " + str(your_dog.age))
 
-my_dog.sit()
-my_dog.roll_over()
+your_dog.sit()
+your_dog.roll_over()
