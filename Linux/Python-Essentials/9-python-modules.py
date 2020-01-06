@@ -41,7 +41,7 @@ def authenticate(username,password,priv="user"):
 # call function
 # mixing both positional arguments and inserted the others in regardless of order
 #*Need to put the positional argument first since it is called first
-if authenticate(password = 'phonypassword',username = 'phonyuser',priv="admin"):
+if authenticate(password = 'bcranston',username = 'millennium',priv="admin"):
     print("Welcome!")
     print("Your privelege is",)
 else:
