@@ -18,6 +18,8 @@ print("------")
 
 #stripping whitespace
 favorite_language = "python   "
+
+
 #no strip
 print(favorite_language)
 
@@ -39,8 +41,6 @@ favorite_language = favorite_language.rstrip()
 
 
 
-
-print("------")
 
 print("------")
 

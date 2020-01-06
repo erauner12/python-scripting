@@ -30,7 +30,7 @@ print("------")
 
 # Stripping names
 
-username = " \nfsfsfe\n "
+username = " \ndrink182\n "
 username.lstrip()
 print(username)
 
