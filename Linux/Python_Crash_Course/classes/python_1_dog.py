@@ -42,15 +42,3 @@ print("Age: " + str(your_dog.age))
 
 your_dog.sit()
 your_dog.roll_over()
-
-print("---------------------------------------------")
-
-
-my_dog = Dog('willie', 6)
-
-print("My dog's name is " + my_dog.name.title() + ".")
-print("My dog is " + str(my_dog.age) + ".")
-
-
-
-
