@@ -1,5 +1,5 @@
 #!/usr/bin/python3.6
-myname = "Evan"
+myname = "John"
 
 print("testing if this change is picked up in pythonista")
 print("testing if this other change is picked up in pythonista")

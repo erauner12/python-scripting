@@ -2,7 +2,6 @@
 # nothing
 print("")
 
-
 # functions
 
 # create first function:
