@@ -50,8 +50,8 @@ print(donald_trump == 'smart')
 print("----")
 
 dating = "no"
-print("Are you dating someone right now? I predict true")
-print(dating == 'no')
+print("Are you dating someone right now? I predict false")
+print(dating != 'no')
 
 
 cash = 100
