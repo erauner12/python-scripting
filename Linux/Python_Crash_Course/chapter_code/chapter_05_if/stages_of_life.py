@@ -1,5 +1,5 @@
 
-age = 66
+age = 21
 
 if age < 2:
     print("the person is a baby")

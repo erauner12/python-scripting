@@ -1,1 +1,1 @@
-pick back up on chapter_04_working_lists
+pick back up on chapter_04_dictionaries
